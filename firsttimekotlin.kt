@@ -44,7 +44,7 @@ fun main(args: Array<String>) {
                 if (x > los) {
                     println("Nie udało się zgadnąć... Wylosowana liczba jest większa od Twojej")
                 }
-                else if (x < a)
+                else if (x < los)
                 {
                     println("Nie udało się zgadnąć... Wylosowana liczba jest mniejsza od Twojej")
                 }
